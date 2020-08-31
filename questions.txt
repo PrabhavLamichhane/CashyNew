@@ -1,0 +1,26 @@
+{
+ "Questions" : {
+
+  "1" : {
+
+   "Question" : "What is the answer?",
+   "Option1" : "answer1",
+   "Option2" : "answer2",
+   "Option3" : "answer3",
+   "Option4" : "answer4",
+   "answer" : "answer2"
+  },
+
+  "2" : {
+ 
+   "Question" : "What is the answer?",
+   "Option1" : "answer1",
+   "Option2" : "answer2",
+   "Option3" : "answer3",
+   "Option4" : "answer4",
+   "answer" : "answer3"
+  } 
+
+
+ }
+}

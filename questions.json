@@ -1,0 +1,37 @@
+{
+ "Questions" : {
+
+  "1" : {
+
+   "question" : "How many holes are on a standard bowling ball?",
+   "option1" : "2",
+   "option2" : "3",
+   "option3" : "5",
+   "option4" : "10",
+   "answer" : "3"
+  },
+
+  "2" : {
+ 
+   "question" : "What are the main colors on the flag of Spain?",
+   "option1" : "Black and yellow",
+   "option2" : "Green and white",
+   "option3" : "Blue and white",
+   "option4" : "Red and yellow",
+   "answer" : "Red and yellow"
+  } ,
+
+  "3" : {
+ 
+   "question" : "Which of these animals does NOT appear in the Chinese zodiac?",
+   "option1" : "Bear",
+   "option2" : "Rabbit",
+   "option3" : "Dragon",
+   "option4" : "Dog",
+   "answer" : "Bear"
+  } 
+
+
+
+ }
+}
